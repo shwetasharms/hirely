@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "1",
+    "title": "Senior React Developer",
+    "company": "Nimbus Labs",
+    "logoColor": "#0f766e",
+    "location": "Noida",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Frontend",
+    "salaryMin": 22,
+    "salaryMax": 34,
+    "salaryUnit": "LPA",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Redux",
+      "Jest",
+      "Webpack",
+      "Micro-frontends"
+    ],
+    "description": "Nimbus Labs is hiring a Senior React Developer for its Frontend team in Noida. You will work mainly with React, TypeScript, Redux and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and ship responsive, accessible user interfaces",
+      "Turn designs into reusable, well-tested components",
+      "Measure and improve page performance",
+      "Review code and work closely with design and backend teams"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with React, TypeScript, Redux, Jest",
+      "Working knowledge of Webpack, Micro-frontends",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 1
+  },
+  {
+    "id": "2",
+    "title": "Frontend Engineer",
+    "company": "PixelCraft",
+    "logoColor": "#7c3aed",
+    "location": "Bengaluru",
+    "mode": "Remote",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "Frontend",
+    "salaryMin": 14,
+    "salaryMax": 22,
+    "salaryUnit": "LPA",
+    "skills": [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "JavaScript",
+      "REST APIs"
+    ],
+    "description": "PixelCraft is hiring a Frontend Engineer for its Frontend team in Bengaluru. You will work mainly with React, Next.js, Tailwind CSS and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and ship responsive, accessible user interfaces",
+      "Turn designs into reusable, well-tested components",
+      "Measure and improve page performance",
+      "Review code and work closely with design and backend teams"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with React, Next.js, Tailwind CSS, JavaScript",
+      "Working knowledge of REST APIs",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 2
+  },
+  {
+    "id": "3",
+    "title": "Junior Frontend Developer",
+    "company": "Bluepeak Software",
+    "logoColor": "#c2410c",
+    "location": "Pune",
+    "mode": "On-site",
+    "type": "Full-time",
+    "level": "Entry",
+    "experience": "0-2 years",
+    "category": "Frontend",
+    "salaryMin": 5,
+    "salaryMax": 8,
+    "salaryUnit": "LPA",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Git"
+    ],
+    "description": "Bluepeak Software is hiring a Junior Frontend Developer for its Frontend team in Pune. You will work mainly with HTML, CSS, JavaScript and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and ship responsive, accessible user interfaces",
+      "Turn designs into reusable, well-tested components",
+      "Measure and improve page performance",
+      "Review code and work closely with design and backend teams"
+    ],
+    "requirements": [
+      "0-2 years of relevant experience",
+      "Hands-on experience with HTML, CSS, JavaScript, React",
+      "Working knowledge of Git",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 4
+  },
+  {
+    "id": "4",
+    "title": "Lead UI Engineer",
+    "company": "Finverse",
+    "logoColor": "#1d4ed8",
+    "location": "Gurugram",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Lead",
+    "experience": "8+ years",
+    "category": "Frontend",
+    "salaryMin": 35,
+    "salaryMax": 50,
+    "salaryUnit": "LPA",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Design Systems",
+      "Accessibility",
+      "Performance",
+      "Mentoring"
+    ],
+    "description": "Finverse is hiring a Lead UI Engineer for its Frontend team in Gurugram. You will work mainly with React, TypeScript, Design Systems and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and ship responsive, accessible user interfaces",
+      "Turn designs into reusable, well-tested components",
+      "Measure and improve page performance",
+      "Review code and work closely with design and backend teams"
+    ],
+    "requirements": [
+      "8+ years of relevant experience",
+      "Hands-on experience with React, TypeScript, Design Systems, Accessibility",
+      "Working knowledge of Performance, Mentoring",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 6
+  },
+  {
+    "id": "5",
+    "title": "Vue.js Developer",
+    "company": "Cartwheel Commerce",
+    "logoColor": "#be185d",
+    "location": "Hyderabad",
+    "mode": "Remote",
+    "type": "Contract",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "Frontend",
+    "salaryMin": 12,
+    "salaryMax": 18,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Vue.js",
+      "JavaScript",
+      "Pinia",
+      "Vite",
+      "Cypress"
+    ],
+    "description": "Cartwheel Commerce is hiring a Vue.js Developer for its Frontend team in Hyderabad. You will work mainly with Vue.js, JavaScript, Pinia and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and ship responsive, accessible user interfaces",
+      "Turn designs into reusable, well-tested components",
+      "Measure and improve page performance",
+      "Review code and work closely with design and backend teams"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with Vue.js, JavaScript, Pinia, Vite",
+      "Working knowledge of Cypress",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 9
+  },
+  {
+    "id": "6",
+    "title": "Node.js Backend Developer",
+    "company": "Stackline",
+    "logoColor": "#4d7c0f",
+    "location": "Bengaluru",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "Backend",
+    "salaryMin": 15,
+    "salaryMax": 24,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST APIs",
+      "Docker"
+    ],
+    "description": "Stackline is hiring a Node.js Backend Developer for its Backend team in Bengaluru. You will work mainly with Node.js, Express, MongoDB and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Design, build and maintain reliable APIs and services",
+      "Model data and write efficient queries",
+      "Add monitoring, logging and automated tests",
+      "Take part in code reviews and on-call rotation"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with Node.js, Express, MongoDB, REST APIs",
+      "Working knowledge of Docker",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 1
+  },
+  {
+    "id": "7",
+    "title": "Senior Java Engineer",
+    "company": "Corebank Systems",
+    "logoColor": "#b45309",
+    "location": "Mumbai",
+    "mode": "On-site",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Backend",
+    "salaryMin": 24,
+    "salaryMax": 38,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka",
+      "PostgreSQL"
+    ],
+    "description": "Corebank Systems is hiring a Senior Java Engineer for its Backend team in Mumbai. You will work mainly with Java, Spring Boot, Microservices and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Design, build and maintain reliable APIs and services",
+      "Model data and write efficient queries",
+      "Add monitoring, logging and automated tests",
+      "Take part in code reviews and on-call rotation"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Java, Spring Boot, Microservices, Kafka",
+      "Working knowledge of PostgreSQL",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 3
+  },
+  {
+    "id": "8",
+    "title": "Python Backend Engineer",
+    "company": "Datawell",
+    "logoColor": "#0e7490",
+    "location": "Remote",
+    "mode": "Remote",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "Backend",
+    "salaryMin": 16,
+    "salaryMax": 26,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "AWS"
+    ],
+    "description": "Datawell is hiring a Python Backend Engineer for its Backend team, working remotely. You will work mainly with Python, FastAPI, PostgreSQL and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Design, build and maintain reliable APIs and services",
+      "Model data and write efficient queries",
+      "Add monitoring, logging and automated tests",
+      "Take part in code reviews and on-call rotation"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with Python, FastAPI, PostgreSQL, Redis",
+      "Working knowledge of AWS",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 5
+  },
+  {
+    "id": "9",
+    "title": "Go Developer",
+    "company": "Routewise Logistics",
+    "logoColor": "#0f766e",
+    "location": "Chennai",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Backend",
+    "salaryMin": 26,
+    "salaryMax": 40,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kubernetes",
+      "PostgreSQL",
+      "Microservices"
+    ],
+    "description": "Routewise Logistics is hiring a Go Developer for its Backend team in Chennai. You will work mainly with Go, gRPC, Kubernetes and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Design, build and maintain reliable APIs and services",
+      "Model data and write efficient queries",
+      "Add monitoring, logging and automated tests",
+      "Take part in code reviews and on-call rotation"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Go, gRPC, Kubernetes, PostgreSQL",
+      "Working knowledge of Microservices",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 11
+  },
+  {
+    "id": "10",
+    "title": "Full Stack Developer (MERN)",
+    "company": "Launchpad Studio",
+    "logoColor": "#7c3aed",
+    "location": "Noida",
+    "mode": "On-site",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "Full Stack",
+    "salaryMin": 12,
+    "salaryMax": 20,
+    "salaryUnit": "LPA",
+    "skills": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "description": "Launchpad Studio is hiring a Full Stack Developer (MERN) for its Full Stack team in Noida. You will work mainly with React, Node.js, Express and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Own features end to end, from database to UI",
+      "Build REST or GraphQL APIs and the screens that use them",
+      "Write automated tests for both client and server",
+      "Work with product and design to scope work"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with React, Node.js, Express, MongoDB",
+      "Working knowledge of JavaScript",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 2
+  },
+  {
+    "id": "11",
+    "title": "Senior Full Stack Engineer",
+    "company": "Healthbridge",
+    "logoColor": "#c2410c",
+    "location": "Bengaluru",
+    "mode": "Remote",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Full Stack",
+    "salaryMin": 28,
+    "salaryMax": 42,
+    "salaryUnit": "LPA",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "AWS",
+      "GraphQL"
+    ],
+    "description": "Healthbridge is hiring a Senior Full Stack Engineer for its Full Stack team in Bengaluru. You will work mainly with React, Node.js, TypeScript and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Own features end to end, from database to UI",
+      "Build REST or GraphQL APIs and the screens that use them",
+      "Write automated tests for both client and server",
+      "Work with product and design to scope work"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with React, Node.js, TypeScript, PostgreSQL",
+      "Working knowledge of AWS, GraphQL",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 7
+  },
+  {
+    "id": "12",
+    "title": "Full Stack Intern",
+    "company": "Kitebyte",
+    "logoColor": "#1d4ed8",
+    "location": "Delhi",
+    "mode": "On-site",
+    "type": "Internship",
+    "level": "Entry",
+    "experience": "0-2 years",
+    "category": "Full Stack",
+    "salaryMin": 2,
+    "salaryMax": 4,
+    "salaryUnit": "LPA",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Git",
+      "SQL"
+    ],
+    "description": "Kitebyte is hiring a Full Stack Intern for its Full Stack team in Delhi. You will work mainly with JavaScript, React, Node.js and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Own features end to end, from database to UI",
+      "Build REST or GraphQL APIs and the screens that use them",
+      "Write automated tests for both client and server",
+      "Work with product and design to scope work"
+    ],
+    "requirements": [
+      "0-2 years of relevant experience",
+      "Hands-on experience with JavaScript, React, Node.js, Git",
+      "Working knowledge of SQL",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 3
+  },
+  {
+    "id": "13",
+    "title": "AI Engineer",
+    "company": "Synapse AI",
+    "logoColor": "#be185d",
+    "location": "Bengaluru",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "AI / ML",
+    "salaryMin": 20,
+    "salaryMax": 35,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Python",
+      "LLMs",
+      "RAG",
+      "LangChain",
+      "Vector Databases",
+      "Prompt Engineering"
+    ],
+    "description": "Synapse AI is hiring a AI Engineer for its AI / ML team in Bengaluru. You will work mainly with Python, LLMs, RAG and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and evaluate features powered by machine-learning or language models",
+      "Design retrieval, prompting and evaluation pipelines",
+      "Deploy models and monitor quality, latency and cost",
+      "Work with product teams to turn ideas into shipped features"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with Python, LLMs, RAG, LangChain",
+      "Working knowledge of Vector Databases, Prompt Engineering",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 1
+  },
+  {
+    "id": "14",
+    "title": "Machine Learning Engineer",
+    "company": "Quantiq",
+    "logoColor": "#4d7c0f",
+    "location": "Hyderabad",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "AI / ML",
+    "salaryMin": 30,
+    "salaryMax": 48,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "MLOps",
+      "AWS",
+      "SQL",
+      "Model Deployment"
+    ],
+    "description": "Quantiq is hiring a Machine Learning Engineer for its AI / ML team in Hyderabad. You will work mainly with Python, PyTorch, MLOps and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and evaluate features powered by machine-learning or language models",
+      "Design retrieval, prompting and evaluation pipelines",
+      "Deploy models and monitor quality, latency and cost",
+      "Work with product teams to turn ideas into shipped features"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Python, PyTorch, MLOps, AWS",
+      "Working knowledge of SQL, Model Deployment",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 4
+  },
+  {
+    "id": "15",
+    "title": "Generative AI Developer",
+    "company": "Promptly",
+    "logoColor": "#b45309",
+    "location": "Remote",
+    "mode": "Remote",
+    "type": "Contract",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "AI / ML",
+    "salaryMin": 18,
+    "salaryMax": 30,
+    "salaryUnit": "LPA",
+    "skills": [
+      "TypeScript",
+      "OpenAI API",
+      "RAG",
+      "Next.js",
+      "Embeddings",
+      "Node.js"
+    ],
+    "description": "Promptly is hiring a Generative AI Developer for its AI / ML team, working remotely. You will work mainly with TypeScript, OpenAI API, RAG and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and evaluate features powered by machine-learning or language models",
+      "Design retrieval, prompting and evaluation pipelines",
+      "Deploy models and monitor quality, latency and cost",
+      "Work with product teams to turn ideas into shipped features"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with TypeScript, OpenAI API, RAG, Next.js",
+      "Working knowledge of Embeddings, Node.js",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 8
+  },
+  {
+    "id": "16",
+    "title": "Data Analyst",
+    "company": "Retailgrid",
+    "logoColor": "#0e7490",
+    "location": "Gurugram",
+    "mode": "On-site",
+    "type": "Full-time",
+    "level": "Entry",
+    "experience": "0-2 years",
+    "category": "Data",
+    "salaryMin": 6,
+    "salaryMax": 10,
+    "salaryUnit": "LPA",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Statistics"
+    ],
+    "description": "Retailgrid is hiring a Data Analyst for its Data team in Gurugram. You will work mainly with SQL, Excel, Power BI and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and maintain data pipelines and reports",
+      "Clean, model and validate data from several sources",
+      "Answer business questions with clear analysis",
+      "Document datasets and metrics for other teams"
+    ],
+    "requirements": [
+      "0-2 years of relevant experience",
+      "Hands-on experience with SQL, Excel, Power BI, Python",
+      "Working knowledge of Statistics",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 2
+  },
+  {
+    "id": "17",
+    "title": "Data Engineer",
+    "company": "Streamforge",
+    "logoColor": "#0f766e",
+    "location": "Pune",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Data",
+    "salaryMin": 25,
+    "salaryMax": 38,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Python",
+      "Spark",
+      "Airflow",
+      "SQL",
+      "AWS",
+      "Kafka"
+    ],
+    "description": "Streamforge is hiring a Data Engineer for its Data team in Pune. You will work mainly with Python, Spark, Airflow and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and maintain data pipelines and reports",
+      "Clean, model and validate data from several sources",
+      "Answer business questions with clear analysis",
+      "Document datasets and metrics for other teams"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Python, Spark, Airflow, SQL",
+      "Working knowledge of AWS, Kafka",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 10
+  },
+  {
+    "id": "18",
+    "title": "DevOps Engineer",
+    "company": "Cloudnest",
+    "logoColor": "#7c3aed",
+    "location": "Bengaluru",
+    "mode": "Remote",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "DevOps",
+    "salaryMin": 16,
+    "salaryMax": 28,
+    "salaryUnit": "LPA",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Cloudnest is hiring a DevOps Engineer for its DevOps team in Bengaluru. You will work mainly with AWS, Docker, Kubernetes and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Run and automate cloud infrastructure",
+      "Maintain CI/CD pipelines and release tooling",
+      "Improve reliability, observability and incident response",
+      "Help teams ship safely and quickly"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with AWS, Docker, Kubernetes, Terraform",
+      "Working knowledge of CI/CD, Linux",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 5
+  },
+  {
+    "id": "19",
+    "title": "Site Reliability Engineer",
+    "company": "Payloop",
+    "logoColor": "#c2410c",
+    "location": "Mumbai",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "DevOps",
+    "salaryMin": 28,
+    "salaryMax": 45,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Kubernetes",
+      "Prometheus",
+      "Go",
+      "Linux",
+      "Incident Management",
+      "AWS"
+    ],
+    "description": "Payloop is hiring a Site Reliability Engineer for its DevOps team in Mumbai. You will work mainly with Kubernetes, Prometheus, Go and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Run and automate cloud infrastructure",
+      "Maintain CI/CD pipelines and release tooling",
+      "Improve reliability, observability and incident response",
+      "Help teams ship safely and quickly"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Kubernetes, Prometheus, Go, Linux",
+      "Working knowledge of Incident Management, AWS",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 12
+  },
+  {
+    "id": "20",
+    "title": "React Native Developer",
+    "company": "Tapcart Mobile",
+    "logoColor": "#1d4ed8",
+    "location": "Noida",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "Mobile",
+    "salaryMin": 14,
+    "salaryMax": 24,
+    "salaryUnit": "LPA",
+    "skills": [
+      "React Native",
+      "TypeScript",
+      "Redux",
+      "REST APIs",
+      "iOS",
+      "Android"
+    ],
+    "description": "Tapcart Mobile is hiring a React Native Developer for its Mobile team in Noida. You will work mainly with React Native, TypeScript, Redux and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and release mobile app features",
+      "Integrate APIs and handle offline and error states",
+      "Profile and improve app performance",
+      "Work with design and QA through each release"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with React Native, TypeScript, Redux, REST APIs",
+      "Working knowledge of iOS, Android",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 3
+  },
+  {
+    "id": "21",
+    "title": "Android Developer",
+    "company": "Ridecircle",
+    "logoColor": "#be185d",
+    "location": "Bengaluru",
+    "mode": "On-site",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Mobile",
+    "salaryMin": 22,
+    "salaryMax": 36,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Android",
+      "Coroutines",
+      "REST APIs"
+    ],
+    "description": "Ridecircle is hiring a Android Developer for its Mobile team in Bengaluru. You will work mainly with Kotlin, Jetpack Compose, Android and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and release mobile app features",
+      "Integrate APIs and handle offline and error states",
+      "Profile and improve app performance",
+      "Work with design and QA through each release"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Kotlin, Jetpack Compose, Android, Coroutines",
+      "Working knowledge of REST APIs",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 14
+  },
+  {
+    "id": "22",
+    "title": "UI/UX Designer",
+    "company": "Studio Marigold",
+    "logoColor": "#4d7c0f",
+    "location": "Mumbai",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "Design",
+    "salaryMin": 10,
+    "salaryMax": 18,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Figma",
+      "Design Systems",
+      "Prototyping",
+      "User Research",
+      "Accessibility"
+    ],
+    "description": "Studio Marigold is hiring a UI/UX Designer for its Design team in Mumbai. You will work mainly with Figma, Design Systems, Prototyping and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Design user flows, wireframes and high-fidelity screens",
+      "Run research and usability tests",
+      "Maintain and extend the design system",
+      "Partner with engineers through build and launch"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with Figma, Design Systems, Prototyping, User Research",
+      "Working knowledge of Accessibility",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 6
+  },
+  {
+    "id": "23",
+    "title": "Product Designer",
+    "company": "Ledgerly",
+    "logoColor": "#b45309",
+    "location": "Remote",
+    "mode": "Remote",
+    "type": "Part-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Design",
+    "salaryMin": 12,
+    "salaryMax": 20,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Figma",
+      "Interaction Design",
+      "User Research",
+      "Prototyping"
+    ],
+    "description": "Ledgerly is hiring a Product Designer for its Design team, working remotely. You will work mainly with Figma, Interaction Design, User Research and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Design user flows, wireframes and high-fidelity screens",
+      "Run research and usability tests",
+      "Maintain and extend the design system",
+      "Partner with engineers through build and launch"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Figma, Interaction Design, User Research, Prototyping",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 15
+  },
+  {
+    "id": "24",
+    "title": "QA Automation Engineer",
+    "company": "Testbench",
+    "logoColor": "#0e7490",
+    "location": "Chennai",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Mid",
+    "experience": "2-5 years",
+    "category": "QA",
+    "salaryMin": 10,
+    "salaryMax": 17,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Playwright",
+      "Cypress",
+      "JavaScript",
+      "API Testing",
+      "CI/CD"
+    ],
+    "description": "Testbench is hiring a QA Automation Engineer for its QA team in Chennai. You will work mainly with Playwright, Cypress, JavaScript and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Write and maintain automated test suites",
+      "Plan test coverage for new features",
+      "Track, reproduce and report defects clearly",
+      "Add tests to the CI pipeline"
+    ],
+    "requirements": [
+      "2-5 years of relevant experience",
+      "Hands-on experience with Playwright, Cypress, JavaScript, API Testing",
+      "Working knowledge of CI/CD",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 4
+  },
+  {
+    "id": "25",
+    "title": "SDET",
+    "company": "Finverse",
+    "logoColor": "#0f766e",
+    "location": "Gurugram",
+    "mode": "On-site",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "QA",
+    "salaryMin": 18,
+    "salaryMax": 28,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Java",
+      "Selenium",
+      "API Testing",
+      "Jenkins",
+      "SQL"
+    ],
+    "description": "Finverse is hiring a SDET for its QA team in Gurugram. You will work mainly with Java, Selenium, API Testing and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Write and maintain automated test suites",
+      "Plan test coverage for new features",
+      "Track, reproduce and report defects clearly",
+      "Add tests to the CI pipeline"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Java, Selenium, API Testing, Jenkins",
+      "Working knowledge of SQL",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 18
+  },
+  {
+    "id": "26",
+    "title": "Product Manager",
+    "company": "Healthbridge",
+    "logoColor": "#7c3aed",
+    "location": "Bengaluru",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Senior",
+    "experience": "5-8 years",
+    "category": "Product",
+    "salaryMin": 30,
+    "salaryMax": 46,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Roadmapping",
+      "Analytics",
+      "User Research",
+      "SQL",
+      "Stakeholder Management"
+    ],
+    "description": "Healthbridge is hiring a Product Manager for its Product team in Bengaluru. You will work mainly with Roadmapping, Analytics, User Research and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Define the roadmap and write clear requirements",
+      "Talk to users and study product data",
+      "Prioritise work with engineering and design",
+      "Track outcomes after launch"
+    ],
+    "requirements": [
+      "5-8 years of relevant experience",
+      "Hands-on experience with Roadmapping, Analytics, User Research, SQL",
+      "Working knowledge of Stakeholder Management",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 7
+  },
+  {
+    "id": "27",
+    "title": "Associate Product Manager",
+    "company": "Cartwheel Commerce",
+    "logoColor": "#c2410c",
+    "location": "Hyderabad",
+    "mode": "On-site",
+    "type": "Full-time",
+    "level": "Entry",
+    "experience": "0-2 years",
+    "category": "Product",
+    "salaryMin": 10,
+    "salaryMax": 16,
+    "salaryUnit": "LPA",
+    "skills": [
+      "Analytics",
+      "User Research",
+      "SQL",
+      "Communication"
+    ],
+    "description": "Cartwheel Commerce is hiring a Associate Product Manager for its Product team in Hyderabad. You will work mainly with Analytics, User Research, SQL and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Define the roadmap and write clear requirements",
+      "Talk to users and study product data",
+      "Prioritise work with engineering and design",
+      "Track outcomes after launch"
+    ],
+    "requirements": [
+      "0-2 years of relevant experience",
+      "Hands-on experience with Analytics, User Research, SQL, Communication",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 20
+  },
+  {
+    "id": "28",
+    "title": "Technical Lead - Frontend",
+    "company": "Skyfare Travel Tech",
+    "logoColor": "#1d4ed8",
+    "location": "Noida",
+    "mode": "Hybrid",
+    "type": "Full-time",
+    "level": "Lead",
+    "experience": "8+ years",
+    "category": "Frontend",
+    "salaryMin": 32,
+    "salaryMax": 48,
+    "salaryUnit": "LPA",
+    "skills": [
+      "React",
+      "Micro-frontends",
+      "TypeScript",
+      "Webpack",
+      "Playwright",
+      "Accessibility",
+      "Mentoring"
+    ],
+    "description": "Skyfare Travel Tech is hiring a Technical Lead - Frontend for its Frontend team in Noida. You will work mainly with React, Micro-frontends, TypeScript and help the team deliver dependable, well-built products.",
+    "responsibilities": [
+      "Build and ship responsive, accessible user interfaces",
+      "Turn designs into reusable, well-tested components",
+      "Measure and improve page performance",
+      "Review code and work closely with design and backend teams"
+    ],
+    "requirements": [
+      "8+ years of relevant experience",
+      "Hands-on experience with React, Micro-frontends, TypeScript, Webpack",
+      "Working knowledge of Playwright, Accessibility, Mentoring",
+      "Clear written and spoken communication"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Flexible working hours",
+      "Learning budget",
+      "Paid time off"
+    ],
+    "postedDaysAgo": 2
+  }
+]

@@ -1,0 +1,542 @@
+{
+  "roles": [
+    {
+      "id": "frontend",
+      "name": "Frontend Developer"
+    },
+    {
+      "id": "backend",
+      "name": "Backend Developer"
+    },
+    {
+      "id": "fullstack",
+      "name": "Full Stack Developer"
+    },
+    {
+      "id": "ai",
+      "name": "AI / ML Engineer"
+    },
+    {
+      "id": "data",
+      "name": "Data Analyst / Engineer"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps / SRE"
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile Developer"
+    },
+    {
+      "id": "qa",
+      "name": "QA / Test Engineer"
+    },
+    {
+      "id": "design",
+      "name": "UI/UX Designer"
+    },
+    {
+      "id": "product",
+      "name": "Product Manager"
+    }
+  ],
+  "bank": {
+    "frontend": [
+      {
+        "topic": "JavaScript",
+        "level": "Entry",
+        "question": "What is the difference between var, let and const?",
+        "hint": "Scope, hoisting, reassignment."
+      },
+      {
+        "topic": "JavaScript",
+        "level": "All",
+        "question": "Explain closures with a practical example.",
+        "hint": "A function remembering variables from where it was created."
+      },
+      {
+        "topic": "JavaScript",
+        "level": "Mid",
+        "question": "How does the event loop handle promises and setTimeout?",
+        "hint": "Call stack, microtask queue, macrotask queue."
+      },
+      {
+        "topic": "React",
+        "level": "Entry",
+        "question": "What is the difference between state and props?",
+        "hint": "Who owns the data and who can change it."
+      },
+      {
+        "topic": "React",
+        "level": "Mid",
+        "question": "When would you use useMemo and useCallback, and when not?",
+        "hint": "Measure first; memoisation has a cost."
+      },
+      {
+        "topic": "React",
+        "level": "Mid",
+        "question": "How do you avoid unnecessary re-renders in a large list?",
+        "hint": "Keys, memo, virtualisation, state placement."
+      },
+      {
+        "topic": "React",
+        "level": "Senior",
+        "question": "How would you split a large app into micro-frontends?",
+        "hint": "Module federation, shared dependencies, routing, team ownership."
+      },
+      {
+        "topic": "Performance",
+        "level": "Senior",
+        "question": "A page has a poor LCP score. How do you investigate and fix it?",
+        "hint": "Measure, find the LCP element, images, render-blocking resources, server time."
+      },
+      {
+        "topic": "Architecture",
+        "level": "Lead",
+        "question": "How do you choose between client state, server state and URL state?",
+        "hint": "Source of truth, caching, shareability."
+      },
+      {
+        "topic": "Accessibility",
+        "level": "All",
+        "question": "How do you make a custom dropdown accessible?",
+        "hint": "Keyboard support, roles, focus management, labels."
+      },
+      {
+        "topic": "Testing",
+        "level": "Mid",
+        "question": "What do you test with unit tests versus end-to-end tests?",
+        "hint": "Speed, confidence, cost of maintenance."
+      }
+    ],
+    "backend": [
+      {
+        "topic": "APIs",
+        "level": "Entry",
+        "question": "What is the difference between PUT and PATCH?",
+        "hint": "Full replace versus partial update; idempotency."
+      },
+      {
+        "topic": "APIs",
+        "level": "Mid",
+        "question": "How would you design pagination for a large table?",
+        "hint": "Offset versus cursor, stable ordering."
+      },
+      {
+        "topic": "Databases",
+        "level": "All",
+        "question": "What is an index and when can it hurt?",
+        "hint": "Faster reads, slower writes, extra storage."
+      },
+      {
+        "topic": "Databases",
+        "level": "Mid",
+        "question": "Explain transactions and isolation levels.",
+        "hint": "ACID, dirty reads, phantom reads."
+      },
+      {
+        "topic": "Security",
+        "level": "All",
+        "question": "How do you store passwords and handle authentication?",
+        "hint": "Hashing with salt, tokens or sessions, expiry."
+      },
+      {
+        "topic": "Scaling",
+        "level": "Senior",
+        "question": "How would you make an endpoint that calls a slow third-party service reliable?",
+        "hint": "Timeouts, retries with backoff, queues, circuit breaker."
+      },
+      {
+        "topic": "Architecture",
+        "level": "Senior",
+        "question": "When would you choose microservices over a monolith?",
+        "hint": "Team size, deploy independence, operational cost."
+      },
+      {
+        "topic": "Architecture",
+        "level": "Lead",
+        "question": "How do you keep data consistent across services?",
+        "hint": "Events, outbox pattern, sagas, idempotent consumers."
+      },
+      {
+        "topic": "Caching",
+        "level": "Mid",
+        "question": "Where would you add caching and how do you invalidate it?",
+        "hint": "TTL, write-through, cache keys."
+      }
+    ],
+    "fullstack": [
+      {
+        "topic": "End to end",
+        "level": "All",
+        "question": "Walk through what happens from a button click to data saved in the database.",
+        "hint": "Event, request, validation, query, response, UI update."
+      },
+      {
+        "topic": "APIs",
+        "level": "Mid",
+        "question": "REST or GraphQL: how do you decide?",
+        "hint": "Client needs, caching, team experience."
+      },
+      {
+        "topic": "Auth",
+        "level": "Mid",
+        "question": "How would you build login with JWT and refresh tokens?",
+        "hint": "Short-lived access token, secure storage, rotation."
+      },
+      {
+        "topic": "React",
+        "level": "Entry",
+        "question": "How do you fetch data in React and show loading and error states?",
+        "hint": "Effect or query library, three states."
+      },
+      {
+        "topic": "Databases",
+        "level": "Entry",
+        "question": "When would you use SQL and when NoSQL?",
+        "hint": "Relations and transactions versus flexible documents."
+      },
+      {
+        "topic": "Deployment",
+        "level": "Senior",
+        "question": "How do you ship a database change without downtime?",
+        "hint": "Backward-compatible migrations, expand then contract."
+      },
+      {
+        "topic": "Architecture",
+        "level": "Lead",
+        "question": "How do you structure a codebase that both frontend and backend teams work in?",
+        "hint": "Shared types, boundaries, ownership, CI."
+      },
+      {
+        "topic": "Security",
+        "level": "All",
+        "question": "What are XSS and CSRF and how do you prevent them?",
+        "hint": "Escaping, CSP, same-site cookies, tokens."
+      }
+    ],
+    "ai": [
+      {
+        "topic": "LLM basics",
+        "level": "Entry",
+        "question": "What are tokens and why do context limits matter?",
+        "hint": "Cost, truncation, prompt design."
+      },
+      {
+        "topic": "RAG",
+        "level": "All",
+        "question": "Explain retrieval-augmented generation step by step.",
+        "hint": "Chunk, embed, store, retrieve, generate."
+      },
+      {
+        "topic": "RAG",
+        "level": "Mid",
+        "question": "How do you choose chunk size and overlap?",
+        "hint": "Document type, retrieval quality, test with real questions."
+      },
+      {
+        "topic": "RAG",
+        "level": "Mid",
+        "question": "Answers from your RAG app are wrong. How do you debug it?",
+        "hint": "Check retrieval first, then the prompt, then the model."
+      },
+      {
+        "topic": "Evaluation",
+        "level": "Senior",
+        "question": "How do you evaluate an LLM feature before and after release?",
+        "hint": "Test sets, graded examples, user feedback, regression checks."
+      },
+      {
+        "topic": "Prompting",
+        "level": "All",
+        "question": "How do you reduce hallucinations?",
+        "hint": "Grounding in sources, clear instructions, allow \"I do not know\"."
+      },
+      {
+        "topic": "Systems",
+        "level": "Senior",
+        "question": "How do you control latency and cost in an LLM product?",
+        "hint": "Caching, smaller models for simple steps, streaming."
+      },
+      {
+        "topic": "ML basics",
+        "level": "Entry",
+        "question": "What is overfitting and how do you detect it?",
+        "hint": "Train versus validation gap."
+      },
+      {
+        "topic": "Agents",
+        "level": "Lead",
+        "question": "When is an agent the right design, and when is a fixed pipeline better?",
+        "hint": "Predictability, cost, task openness."
+      }
+    ],
+    "data": [
+      {
+        "topic": "SQL",
+        "level": "Entry",
+        "question": "What is the difference between INNER JOIN and LEFT JOIN?",
+        "hint": "Which rows are kept."
+      },
+      {
+        "topic": "SQL",
+        "level": "Mid",
+        "question": "Explain window functions with an example.",
+        "hint": "Running totals, ranking within groups."
+      },
+      {
+        "topic": "Analysis",
+        "level": "All",
+        "question": "A key metric dropped 20% overnight. What do you check?",
+        "hint": "Data pipeline first, then segments, then real causes."
+      },
+      {
+        "topic": "Pipelines",
+        "level": "Senior",
+        "question": "How do you make a data pipeline safe to re-run?",
+        "hint": "Idempotent writes, partitions, checkpoints."
+      },
+      {
+        "topic": "Modelling",
+        "level": "Mid",
+        "question": "What is a star schema?",
+        "hint": "Fact and dimension tables."
+      },
+      {
+        "topic": "Statistics",
+        "level": "Entry",
+        "question": "What is the difference between mean and median, and when does it matter?",
+        "hint": "Skewed data and outliers."
+      },
+      {
+        "topic": "Architecture",
+        "level": "Lead",
+        "question": "Batch or streaming: how do you decide?",
+        "hint": "Freshness needs versus cost and complexity."
+      }
+    ],
+    "devops": [
+      {
+        "topic": "Containers",
+        "level": "Entry",
+        "question": "What is the difference between an image and a container?",
+        "hint": "Template versus running instance."
+      },
+      {
+        "topic": "Kubernetes",
+        "level": "Mid",
+        "question": "A pod keeps restarting. How do you debug it?",
+        "hint": "Describe, logs, probes, resources."
+      },
+      {
+        "topic": "CI/CD",
+        "level": "All",
+        "question": "Describe a deployment pipeline you would trust.",
+        "hint": "Build, test, scan, deploy in stages, rollback."
+      },
+      {
+        "topic": "Reliability",
+        "level": "Senior",
+        "question": "What are SLIs, SLOs and error budgets?",
+        "hint": "Measure, target, allowed failure."
+      },
+      {
+        "topic": "Infrastructure",
+        "level": "Mid",
+        "question": "Why use infrastructure as code?",
+        "hint": "Repeatable, reviewed, versioned."
+      },
+      {
+        "topic": "Incidents",
+        "level": "Senior",
+        "question": "How do you run an incident and the review afterwards?",
+        "hint": "Roles, communication, blameless review, follow-ups."
+      },
+      {
+        "topic": "Architecture",
+        "level": "Lead",
+        "question": "How do you design for a region failure?",
+        "hint": "Replication, failover, tested recovery."
+      }
+    ],
+    "mobile": [
+      {
+        "topic": "Basics",
+        "level": "Entry",
+        "question": "Explain the app lifecycle on your platform.",
+        "hint": "Foreground, background, killed."
+      },
+      {
+        "topic": "React Native",
+        "level": "Mid",
+        "question": "How does React Native talk to native code?",
+        "hint": "Bridge or new architecture, native modules."
+      },
+      {
+        "topic": "Performance",
+        "level": "All",
+        "question": "A list scrolls badly. What do you check?",
+        "hint": "Virtualised lists, image sizes, re-renders."
+      },
+      {
+        "topic": "Offline",
+        "level": "Senior",
+        "question": "How would you design offline support with sync?",
+        "hint": "Local store, queue of changes, conflict rules."
+      },
+      {
+        "topic": "Release",
+        "level": "Mid",
+        "question": "How do you roll out a risky feature?",
+        "hint": "Feature flags, staged rollout, crash monitoring."
+      },
+      {
+        "topic": "Architecture",
+        "level": "Lead",
+        "question": "How do you share code between iOS, Android and web?",
+        "hint": "What to share and what to keep native."
+      }
+    ],
+    "qa": [
+      {
+        "topic": "Basics",
+        "level": "Entry",
+        "question": "What is the difference between severity and priority?",
+        "hint": "Impact versus urgency."
+      },
+      {
+        "topic": "Automation",
+        "level": "Mid",
+        "question": "What makes a test flaky and how do you fix it?",
+        "hint": "Timing, shared data, real waits versus fixed sleeps."
+      },
+      {
+        "topic": "Strategy",
+        "level": "All",
+        "question": "How do you decide what to automate?",
+        "hint": "Repeated, stable, high-value flows."
+      },
+      {
+        "topic": "API testing",
+        "level": "Mid",
+        "question": "How do you test an API?",
+        "hint": "Status codes, schema, edge cases, auth."
+      },
+      {
+        "topic": "Strategy",
+        "level": "Senior",
+        "question": "Explain the test pyramid.",
+        "hint": "Many unit tests, fewer integration, few end-to-end."
+      },
+      {
+        "topic": "Process",
+        "level": "Lead",
+        "question": "How do you build quality into a team that ships daily?",
+        "hint": "Shift left, CI gates, ownership by developers."
+      }
+    ],
+    "design": [
+      {
+        "topic": "Process",
+        "level": "All",
+        "question": "Walk through your design process on a recent project.",
+        "hint": "Problem, research, options, testing, result."
+      },
+      {
+        "topic": "Research",
+        "level": "Mid",
+        "question": "How do you run a usability test?",
+        "hint": "Tasks, real users, observe, do not lead."
+      },
+      {
+        "topic": "Systems",
+        "level": "Senior",
+        "question": "How do you build and maintain a design system?",
+        "hint": "Tokens, components, documentation, adoption."
+      },
+      {
+        "topic": "Accessibility",
+        "level": "All",
+        "question": "How do you design for accessibility?",
+        "hint": "Contrast, focus, text size, not colour alone."
+      },
+      {
+        "topic": "Collaboration",
+        "level": "Entry",
+        "question": "How do you hand off designs to developers?",
+        "hint": "Specs, states, edge cases, conversation."
+      },
+      {
+        "topic": "Strategy",
+        "level": "Lead",
+        "question": "How do you measure whether a design worked?",
+        "hint": "Outcome metrics, not opinions."
+      }
+    ],
+    "product": [
+      {
+        "topic": "Prioritisation",
+        "level": "All",
+        "question": "How do you decide what to build next?",
+        "hint": "Impact, effort, evidence, strategy."
+      },
+      {
+        "topic": "Metrics",
+        "level": "Mid",
+        "question": "How would you define success for a new feature?",
+        "hint": "One main metric plus guardrails."
+      },
+      {
+        "topic": "Discovery",
+        "level": "Entry",
+        "question": "How do you find out what users need?",
+        "hint": "Interviews, data, support tickets."
+      },
+      {
+        "topic": "Execution",
+        "level": "Senior",
+        "question": "A launch is two weeks late. What do you do?",
+        "hint": "Cut scope, communicate early, protect quality."
+      },
+      {
+        "topic": "Strategy",
+        "level": "Lead",
+        "question": "How do you say no to a senior stakeholder?",
+        "hint": "Shared goals, trade-offs made visible."
+      },
+      {
+        "topic": "Analytics",
+        "level": "Mid",
+        "question": "How would you design an A/B test?",
+        "hint": "Hypothesis, sample size, duration, one change."
+      }
+    ],
+    "behavioural": [
+      {
+        "topic": "Behavioural",
+        "level": "All",
+        "question": "Tell me about yourself and your current role.",
+        "hint": "Two minutes: present, past, why this role."
+      },
+      {
+        "topic": "Behavioural",
+        "level": "All",
+        "question": "Describe a difficult problem you solved recently.",
+        "hint": "Situation, action, result — with numbers if you can."
+      },
+      {
+        "topic": "Behavioural",
+        "level": "All",
+        "question": "Tell me about a time you disagreed with a teammate.",
+        "hint": "Focus on how it was resolved."
+      },
+      {
+        "topic": "Behavioural",
+        "level": "All",
+        "question": "Why do you want to leave your current job?",
+        "hint": "Stay positive; talk about what you want next."
+      }
+    ]
+  }
+}
