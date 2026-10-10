@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hirely — Job Portal
 
 Two separate apps. Run each in its own terminal.
@@ -49,3 +50,6 @@ If the backend runs on another URL, copy `frontend/.env.example` to `.env` and c
 
 - Real login: the sign-in and register screens only store the name and email in the browser.
 - Database: applications are written to `backend/app/data/applications.json`.
+=======
+# hirely
+>>>>>>> 91908b9df406756a35b26edd59d15b46649f1fd5
